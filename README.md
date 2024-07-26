@@ -1,7 +1,7 @@
-# Github �ŏ��̃v���W�F�N�g
+# Github 最初のプロジェクト
 
-����ɂ��́AGithub!
+こんにちは、Github!
 
-�R�~�b�g1�p�ύX
+コミット1用変更
 
-�R�~�b�g2�p�ύX
+コミット2用変更
